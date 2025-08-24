@@ -1,9 +1,9 @@
-# Operating-platforms-
+# Operating-platforms
 
-# 📄 The Gaming Room Software Design Reflection
+# The Gaming Room Software Design Reflection
 
 # 1. Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
-The client, The Gaming Room, had an existing Android game called Draw It or Lose It, inspired by the 1980s TV show Win, Lose or Draw. They aimed to expand this game into a web-based application accessible across multiple platforms, including Windows, macOS, Linux, and mobile devices. Key requirements included supporting multiple teams with unique names, ensuring no duplicate game instances in memory, and maintaining a budget-conscious development process. ​
+The client, The Gaming Room, had an existing Android game called Draw It or Lose It, inspired by the 1980s TV show Win, Lose or Draw. They aimed to expand this game into a web based application accessible across multiple platforms, including Windows, macOS, Linux, and mobile devices. Key requirements included supporting multiple teams with unique names, ensuring no duplicate game instances in memory, and maintaining a budget-conscious development process. ​
 
 
 # 2. What did you do particularly well in developing this documentation?
